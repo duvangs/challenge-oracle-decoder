@@ -20,7 +20,6 @@ No se permite acentuación de palabras
 */
 
 //Creo las variables necesarias para capturar los diferentes eventos de los botones
-
 var botonEncriptar = document.querySelector("#btn-encriptar");
 var botonDesencriptar = document.querySelector("#btn-desencriptar");
 var botonCopiar = document.querySelector("#btn-copy");
